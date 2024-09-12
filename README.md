@@ -1,5 +1,5 @@
-## Hi, I’m @Nathalie733 and welcome to my profile
--  I’m a Data Scientist and i'm looking for new opportunities in this field. Hope you like my projects!
+  # Hi, I’m @Nathalie733 and welcome to my profile
+  I’m a Data Scientist and i'm looking for new opportunities in this field. Hope you like my projects!
 ## I’m have programming Knowledge in
 - Python 
 - R
